@@ -1,2 +1,9 @@
 # EvenChecker.sol
 EvenChecker.sol9
+pragma solidity ^0.8.20;
+
+contract EvenChecker {
+    function isEven(uint _num) public pure returns (bool) {
+        return _num % 2 == 0;
+    }
+}
