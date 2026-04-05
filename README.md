@@ -7,3 +7,4 @@ contract EvenChecker {
         return _num % 2 == 0;
     }
 }
+Update contract logic
