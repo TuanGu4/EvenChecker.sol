@@ -10,3 +10,4 @@ contract EvenChecker {
 Update contract logic
 Fix logic error
 Add simple test case
+Update state variable
