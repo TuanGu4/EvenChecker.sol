@@ -11,3 +11,4 @@ Update contract logic
 Fix logic error
 Add simple test case
 Update state variable
+Improve naming consistency
