@@ -13,3 +13,4 @@ Add simple test case
 Update state variable
 Improve naming consistency
 Add input checks
+Add comments
